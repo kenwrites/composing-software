@@ -1,0 +1,22 @@
+{
+  "name": "composing-software",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1-intro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenwrites/composing-software.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenwrites/composing-software/issues"
+  },
+  "homepage": "https://github.com/kenwrites/composing-software#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
